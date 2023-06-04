@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  background-color: rgb(229, 230, 237);
+
+  color: black;
+
+  font-family: Segoe UI, Tahoma, Geneva, "Verdana", sans-serif;
+}
+
+body {
+  width: 1079px;
+  margin: 0 auto;
+}
+hr {
+  width: 1079px;
+  margin: 0 auto;
+  border: 2px solid #3d3d3d;
+  border-radius: 3px;
+}
+
+a {
+  text-decoration: none;
+}

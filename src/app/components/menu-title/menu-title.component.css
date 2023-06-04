@@ -1,0 +1,16 @@
+.menu-title-container {
+  color: #000;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.menu-title-container > h3 {
+  width: 1079px;
+  margin: 0 auto;
+  padding-top: 10px;
+  
+  display: flex;
+  justify-content: left;
+
+  font-family: Segoe UI, Tahoma, Geneva, "Verdana", sans-serif;
+}
